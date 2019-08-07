@@ -5,7 +5,7 @@
     "picture": "https://t.alipayobjects.com/images/rmsweb/T16xRhXkxbXXXXXXXX.svg",
     "product": "百香果",
     "price": "19.9",
-    "ifCommented": true
+    "ifCommented": false
     },
     {
       "id": 2,
@@ -13,7 +13,7 @@
       "picture": "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg",
       "product": "百香果2",
       "price": "19.9",
-      "ifCommented": true
+      "ifCommented": false
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
       "picture": "https://t.alipayobjects.com/images/rmsweb/T16xRhXkxbXXXXXXXX.svg",
       "product": "百香果3",
       "price": "19.9",
-      "ifCommented": true
+      "ifCommented": false
     },
     {
       "id": 4,
@@ -29,6 +29,6 @@
       "picture": "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg",
       "product": "百香果4",
       "price": "19.9",
-      "ifCommented": true
+      "ifCommented": false
     }
   ]
